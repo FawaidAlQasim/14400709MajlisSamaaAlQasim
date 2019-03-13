@@ -1,0 +1,1 @@
+﻿positionForPages[33]={page:33,positions:[{word:"ً",left:0.388057,top:0.850279,width:0.012536,height:0.062744},{word:"ﺍﺩﺮﳎ ﱳﳌﺍ",left:0.388057,top:0.850279,width:0.222723,height:0.062744}]};
